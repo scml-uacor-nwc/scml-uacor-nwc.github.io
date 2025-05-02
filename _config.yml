@@ -1,4 +1,4 @@
 title: NWC
-theme: Architect
+theme: jekyll-theme-architect
 plugins:
   - jekyll-github-metadata
