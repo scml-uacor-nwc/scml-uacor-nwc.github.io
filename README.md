@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome
+title: Núcleo Web para a Comunicação
 ---
 
 # 👋 Olá!
