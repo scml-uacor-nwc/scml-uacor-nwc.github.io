@@ -5,9 +5,9 @@ title: Núcleo Web para a Comunicação
 
 # 👋 Olá!!!
 
-seja bem vindo ao repositório do Núcleo Web para a Comunicação.
+Bem-vindo ao repositório de projetos do Núcleo Web para a Comunicação (NWC), uma iniciativa da Unidade de Aplicações Corporativas (UACOR) da Direção de Sistemas e Tecnologias de Informação (DISTI) da Santa Casa da Misericórdia de Lisboa.
 
-Abaixo fica uma lista dos nossos repositórios:
+Explora os projetos e soluções que ligam pessoas, promovem a inclusão e potenciam a comunicação institucional.
 
 ## 📂 Repositórios de livre acesso
 
