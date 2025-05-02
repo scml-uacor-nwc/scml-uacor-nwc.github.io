@@ -3,7 +3,7 @@ layout: default
 title: Núcleo Web para a Comunicação
 ---
 
-# 👋 Olá!
+# 👋 Olá!!
 
 seja bem vindo ao repositório do Núcleo Web para a Comunicação.
 
