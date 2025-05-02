@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome
+title: Núcleo Web para a Comunicação
 ---
 
 # 👋 Olá!
@@ -17,5 +17,11 @@ Abaixo fica uma lista dos nossos repositórios:
       <a href="{{ repo.html_url }}">{{ repo.name }}</a>: {{ repo.description }}
     </li>
   {% endfor %}
+  <li>
 </ul>
-git remote add origin https://github.com/scml-uacor-nwc/scml-uacor-nwc.git
+
+## 🔒 Private Projects
+
+- [SHR](https://github.com/scml-uacor-nwc/simple-history-reader): Simple History Reader
+- [CCM](https://github.com/scml-uacor-nwc/scml-ccm): Cookie Consent Management
+- [PLD](https://github.com/scml-uacor-nwc/Plugin-List-Display) Plugin List Display
