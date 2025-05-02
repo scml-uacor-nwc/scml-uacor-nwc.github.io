@@ -1,0 +1,4 @@
+title: NWC
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-github-metadata
