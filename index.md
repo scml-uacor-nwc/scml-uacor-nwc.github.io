@@ -19,7 +19,7 @@ Explora os projetos e soluções que ligam pessoas, promovem a inclusão e poten
   {% endfor %}
 </ul>
 
-## 🔒 Projects Privados
+## 🔒 Projectos Privados
 
 <ul>
 <li><a href="https://github.com/scml-uacor-nwc/simple-history-reader">Simple History Reader [SHR]</a></li>
