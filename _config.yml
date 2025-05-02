@@ -1,4 +1,4 @@
 title: NWC
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-github-metadata
