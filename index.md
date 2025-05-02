@@ -9,7 +9,7 @@ seja bem vindo ao repositório do Núcleo Web para a Comunicação.
 
 Abaixo fica uma lista dos nossos repositórios:
 
-## 📂 Repositórios
+## 📂 Repositórios de livre acesso
 
 <ul>
   {% for repo in site.github.public_repositories %}
@@ -19,7 +19,7 @@ Abaixo fica uma lista dos nossos repositórios:
   {% endfor %}
 </ul>
 
-## 🔒 Private Projects
+## 🔒 Projects Privados
 
 <ul>
 <li><a href="https://github.com/scml-uacor-nwc/simple-history-reader">Simple History Reader [SHR]</a></li>
