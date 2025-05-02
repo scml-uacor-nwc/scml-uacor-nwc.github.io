@@ -22,6 +22,6 @@ Abaixo fica uma lista dos nossos repositórios:
 
 ## 🔒 Private Projects
 
-- [SHR](https://github.com/scml-uacor-nwc/simple-history-reader): Simple History Reader
-- [CCM](https://github.com/scml-uacor-nwc/scml-ccm): Cookie Consent Management
-- [PLD](https://github.com/scml-uacor-nwc/Plugin-List-Display) Plugin List Display
+<a href="https://github.com/scml-uacor-nwc/simple-history-reader">Simple History Reader [SHR]</a>
+<a href="https://github.com/scml-uacor-nwc/scml-ccm">Cookie Consent Management [CCM]</a>
+<a href="https://github.com/scml-uacor-nwc/Plugin-List-Display">Plugin List Display</a>
