@@ -24,10 +24,10 @@ Abaixo fica uma lista dos nossos repositórios:
 <ul>
 <li><a href="https://github.com/scml-uacor-nwc/simple-history-reader">Simple History Reader [SHR]</a></li>
 <li><a href="https://github.com/scml-uacor-nwc/scml-ccm">Cookie Consent Management [CCM]</a></li>
-<li><a href="[https://github.com/scml-uacor-nwc/Plugin-List-Display](https://github.com/scml-uacor-nwc/a11y)">A11Y</a></li>
-<li><a href="[https://github.com/scml-uacor-nwc/Plugin-List-Display](https://github.com/scml-uacor-nwc/accessible-modal-focus)">Accessible Modal</a></li>
-<li><a href="[https://github.com/scml-uacor-nwc/Plugin-List-Display](https://github.com/scml-uacor-nwc/Best-word-batch-replacer)">Best Word Batch Replacer</a></li>
-<li><a href="[https://github.com/scml-uacor-nwc/Plugin-List-Display](https://github.com/scml-uacor-nwc/custom-post-columns)">Custom Post Columns</a></li>
+<li><a href="https://github.com/scml-uacor-nwc/a11y">A11Y</a></li>
+<li><a href="https://github.com/scml-uacor-nwc/accessible-modal-focus">Accessible Modal</a></li>
+<li><a href="https://github.com/scml-uacor-nwc/Best-word-batch-replacer">Best Word Batch Replacer</a></li>
+<li><a href="https://github.com/scml-uacor-nwc/custom-post-columns">Custom Post Columns</a></li>
 </ul>
 
 
